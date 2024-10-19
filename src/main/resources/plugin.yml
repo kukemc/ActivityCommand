@@ -1,0 +1,4 @@
+name: activitycommand
+version: '${version}'
+main: su.activitycommand.Activitycommand
+api-version: '1.20'

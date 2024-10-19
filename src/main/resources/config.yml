@@ -1,0 +1,9 @@
+events:
+  "2024-09-17":
+    commands:
+      - "give %player% diamond 1"
+      - "say 欢迎 %player%，你获得了登录奖励！"
+  "2024-12-25":
+    commands:
+      - "give %player% emerald 5"
+      - "say %player% 圣诞快乐，%player%！"
